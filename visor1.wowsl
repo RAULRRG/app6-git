@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>louvers,tv,bubbles,dribbles,brick,collage,seven,blur,book,blast,blinds,fly,flip,stack_vertical</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>480</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/agui.gif</url>
+                <title>mexico</title>
+                <filesize>14102</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/Batalla del 4 de Mayo.jpg</url>
+                <title>Batalla del 4 de Mayo</title>
+                <filesize>27367</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/Batalla del 5 de Mayo de 1862.jpg</url>
+                <title>Batalla del 5 de Mayo de 1862</title>
+                <filesize>172563</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/batalla.jpg</url>
+                <title>batalla</title>
+                <filesize>11165</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/batalla1.jpg</url>
+                <title>batalla </title>
+                <filesize>5402</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/batalla2.jpg</url>
+                <title>batalla</title>
+                <filesize>11017</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/batalla3.jpg</url>
+                <title>batalla3</title>
+                <filesize>9644</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/batalla4.jpg</url>
+                <title>batalla</title>
+                <filesize>6973</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/Franceses derrotados.jpg</url>
+                <title>Franceses derrotados</title>
+                <filesize>42491</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/3er parcial/aplicaciones/app6/imagenes/Soldados caidos en batalla.png</url>
+                <title>Soldados caidos en batalla</title>
+                <filesize>292881</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
